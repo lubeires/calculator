@@ -1,2 +1,5 @@
 # calculator
-project 5 of the odin project foundations course.
+
+Simple calculator using HTML, CSS and JavaScript.
+
+<img src="https://i.imgur.com/cC52d6P.gif" />
